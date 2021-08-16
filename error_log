@@ -1,0 +1,9 @@
+[18-Aug-2020 02:04:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sombathr_vtmdb'@'localhost' (using password: YES) in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 12
+[18-Aug-2020 02:04:55 America/Boise] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 13
+[18-Aug-2020 02:11:05 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'sombathr_vtmdb'@'localhost' (using password: YES) in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 12
+[18-Aug-2020 02:11:05 America/Boise] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 13
+[18-Aug-2020 06:28:55 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sombathr_itm'@'localhost' to database 'project_01' in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 12
+[18-Aug-2020 06:28:55 America/Boise] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 13
+[18-Aug-2020 06:30:47 America/Boise] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'sombathr_itm'@'localhost' to database 'project_01' in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 12
+[18-Aug-2020 06:30:47 America/Boise] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home1/sombathr/public_html/vtmdb/connections/vtmdb.php on line 13
+[18-Aug-2020 06:34:52 America/Boise] PHP Warning:  Use of undefined constant txt_title - assumed 'txt_title' (this will throw an Error in a future version of PHP) in /home1/sombathr/public_html/vtmdb/home.php on line 8
